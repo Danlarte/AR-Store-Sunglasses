@@ -14,5 +14,5 @@ AR-Store-Sunglasses is an exciting project currently under development for the U
 1. Clone the repository: `git clone https://github.com/your-username/AR-Store-Sunglasses.git`
 2. Navigate to the project directory: `cd AR-Store-Sunglasses`
 3. Install the dependencies: `npm install`
-4. Set up the PostgreSQL database (see [docs/database-setup.md](docs/database-setup.md)).
+4. Set up the PostgreSQL database.
 5. Start the development server: `npm run dev`
