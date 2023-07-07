@@ -1,6 +1,5 @@
 # AR-Store-Sunglasses
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 AR-Store-Sunglasses is an exciting project currently under development for the Undefined Shell Bootcamp by Guillermo Rodas. It aims to create a cutting-edge web application using Next.js, PostgreSQL, and augmented reality (AR). With AR-Store-Sunglasses, users will be able to try on sunglasses virtually, revolutionizing the way we shop for eyewear. Join us on this innovative journey!
 
